@@ -1,0 +1,2 @@
+# Samplejavaapp
+maven project
